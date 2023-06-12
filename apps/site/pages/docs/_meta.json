@@ -30,6 +30,12 @@
   },
   "global-tokens": "Global Tokens",
   "icons": "Icons",
+  "-- VTEX Headless CMS --": {
+    "type": "separator",
+    "title": "VTEX Headless CMS"
+  },
+  "headless-cms": "Introducing VTEX Headless CMS",
+  "integrating-headless-cms": "Integrating your storefront with VTEX Headless CMS",
   "-- VTEX Integration --": {
     "type": "separator",
     "title": "VTEX Platform Integration"
