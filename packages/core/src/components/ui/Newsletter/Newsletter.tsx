@@ -148,10 +148,10 @@ const Newsletter = forwardRef<HTMLFormElement, NewsletterProps>(
       <div data-fs-newsletter={card ? 'card' : ''}>
         <form
           data-fs-newsletter-form
+          data-fs-content="newsletter"
           ref={ref}
           onSubmit={handleSubmit}
           {...otherProps}
-          className="layout__content"
         >
           <header data-fs-newsletter-header>
             <h3>
